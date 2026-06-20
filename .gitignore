@@ -1,0 +1,12 @@
+node_modules/
+out/
+dist/
+.dist/
+release/
+*.log
+*.tsbuildinfo
+licence-*.lic
+.DS_Store
+Thumbs.db
+.env
+*.local
